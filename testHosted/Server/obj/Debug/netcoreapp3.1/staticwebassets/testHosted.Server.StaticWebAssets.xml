@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\ag4488\Documents\Visual Studio 2019\Projects\Blazor Samples\testHosted\Client\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\ag4488\Documents\Visual Studio 2019\Projects\Blazor Samples\testHosted\Client\bin\Debug\netstandard2.1\wwwroot\" />
+</StaticWebAssets>
